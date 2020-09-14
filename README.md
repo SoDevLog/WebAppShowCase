@@ -3,16 +3,17 @@ This application is a web site an ASP.NET Application that dynamicly present con
 This project is managed by Mabyre who is a member of the company SoDevLog
 
 # Environment
-* Visual Studio 2013 +
+* Visual Studio 2017 +
 * ASP.NET 4.5 +
 
 # Get started
 1. Clone repository
 1. Open solution in Visual Studio 2013 or more
-1. Builld and run solution to load website in the browser
-1. Use admin/admin to log into website administration
+1. Builld and Run solution to load website in the browser
+1. Use **admin/admin** to log into website administration
 
-![Front Page](http://images.sodevlog.fr/2016-04-27_10h21_29.png)
+You will see the front page :
+[Dynamic Showcase Front Page](https://drive.google.com/open?id=0B0LAaGkLHCctV0lfWnAtWlIwMW8)
 
 This will develop
-## So stay tuned
+## So we stay tuned
